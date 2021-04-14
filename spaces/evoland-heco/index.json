@@ -1,6 +1,6 @@
 {
   "name": "Evolution Land On Heco",
-  "network": "128",
+  "network": "256",
   "symbol": "Power",
   "skin": "evoland",
   "strategies": [
