@@ -1,19 +1,20 @@
 {
-  "name": "0xDollar.Finance",
+  "name": "Evolution Land",
   "network": "1",
-  "symbol": "0xDollar",
+  "symbol": "Power",
+  "skin": "evoland",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x34870322f473830d28d28bef7f1d4178edf832d8",
-        "symbol": "0xDollar",
+        "address": "0x67e79e2603c1e2dd6576acd2899677ed9918c0cc",
+        "symbol": "Power",
         "decimals": 18
       }
     }
   ],
   "members": [
-    "0xaE0091bD0689c32c38e062C6956c2240eC658bE4"
+    "0xd2c7008400F54aA70Af01CF8C747a4473246593E"
   ],
   "filters": {
     "defaultTab": "core",
