@@ -1,0 +1,23 @@
+{
+  "name": "Evolution Land On Pangolin",
+  "network": "43",
+  "symbol": "Power",
+  "skin": "evoland",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x511c9Eee761E03ab413512DaA96bDdBfdB1CbD2B",
+        "symbol": "Power",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xd2c7008400F54aA70Af01CF8C747a4473246593E"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
